@@ -1,4 +1,4 @@
-<h2 align="center">Hi!  My name is Owm and I'm an Android developer</h2>
+<h2 align="center">Hi!  My myself Owm and I'm an Android developer</h2>
 
 ###
 
